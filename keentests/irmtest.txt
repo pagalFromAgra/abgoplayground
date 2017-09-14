@@ -1,0 +1,54 @@
+Checking for the date: 2017-08-03
+Santos, Armando	wpLEnrjTPweUUnEd	24	36818	125	
+Small, Damon	wKt3RFQgy6KMlJFg	53	45927	155	
+Martinez, Omar	tltDOIaCiK64clNB	253	39592	134	
+Davis, John	tGXxwgUE2SXBTNyW	7	686	3	
+Alava, Christian	sxb0eYI5KbFvhgWq	18	23575	79	
+Rojas, Shawn	slF6K4ukcpuIoGUJ	0	0	0	
+Lopez, Marvin	sE3XqrWjd8dJWjnd	0	0	0	
+Mario Quino	qcAE0MPxrSxwZDZo	62	23301	81	
+Mahammad Ramadan	pgzmmgSJl5yMBTid	0	0	0	
+Scott, Chester	ocJnqwuskxw4rnzK	10	42791	144	<--- Hourly rate < 2 HRP/hr
+Hernd.z, Mario	oJ3LKiVZYpk1vGNu	127	44009	148	
+Alarcon, Raul	nC1T6K2M4vrnD2xT	2	31986	108	<--- Hourly rate < 2 HRP/hr
+Lopez, Rene	iiDiCF1MzjEBNBvp	36	40472	136	
+Razetto, Dante	ihQiXCArrIKpcAvv	11	13911	53	
+Majano, Edwin	hVrZIFHjZcdITvcZ	78	37149	127	
+Hernd.z, Yoan	fB4iyPmCdLilBEWm	0	0	0	
+Gutierrez, Marvin	emHRFqtWAtQSz0vG	80	12468	42	
+Reyes, Victor	eCrM9Pm9NqwGCyOG	6	20193	67	<--- Hourly rate < 2 HRP/hr
+Soto, Bernardo	aQewmrVzsgev4ZfI	0	0	0	
+Jenkins, James	YxCQBOmbaGvf8v9z	0	0	0	
+Green, Corey	Y20jbJFnNdpBJvIj	0	0	0	
+Walker, Brock	WmB6N7JrHJP2z4v7	0	0	0	
+Rosario, Omar	V09Y5tvAVoSG9Erb	201	42811	147	
+Williams, Jaime	Uqzch5fshhe480k5	0	0	0	
+Mangual, Melvin	RepIOek3pYjjtJM1	66	37399	127	
+Vargas, Dave	RLMY2c2L8RmxRCFp	287	46801	159	
+Pagan, Jose	Q3GwimHWStq94LvM	0	0	0	
+Bey, Jihad	P80mJ6zQLtMMnl1S	0	0	0	
+Smith, David	N6EcuzzmSPxu6pyG	0	0	0	
+Rousey, Brendan	LpJW6jY78z0wbE10	0	0	0	
+Zavala, Percy	GkopaIjKlnSmD0bQ	0	0	0	
+Smith, Persell	Gbejjxdq4bml3CFK	0	0	0	
+Acosta, Jorge	GMVpKEUrwDHnYHV9	0	0	0	
+Riley, Andre	FntnUT1VbWW2erjh	0	0	0	
+Polanco, Benjamin 	EjhMX0QOxiNdLJvC	0	0	0	
+Escobar, John	EhrUAiQ79ru6JMbH	8	35502	119	<--- Hourly rate < 2 HRP/hr
+Ladson, Hyaida	DOE6cZp5BoFGB4nv	0	0	0	
+Galvis, German	CY3tbuSmNpHhm7ZL	55	44936	101	<--- missing S3 data
+Goins, Robert	BxMkECW4qarPquTZ	51	42328	50	<--- missing S3 data
+Collins, Fred	Bmcw6Kl3fFNs9PhK	0	0	0	
+Egberts, Sean	Bdau1FK2unTN6yB3	26	43994	148	
+Aparicio, Roger	B4TURmeoEXCC9Kao	3	41068	138	<--- Hourly rate < 2 HRP/hr
+Escobar, Benhur	Am3Yp4Tx2R2rugHX	226	43237	145	
+Esquilin, Eliazer	8je8fbShpEVMZNXA	52	28312	93	
+Puente, Freddy	7tXitn4J9V7uR0Vb	10	6898	24	
+Garcia, Natalio	5RAYOhg9WJcXQGyS	0	0	0	
+Bian, Mario	4nJJ08V34kFf3tav	0	0	0	
+Orozco, David	4lTYj8ucvzHEevk2	0	0	0	
+Deida, Abraham	4Am9OqvsfI2sEI72	0	0	0	
+Collazo, Jose	49brmF3G98mQAjMA	58	33356	114	
+Spann, Hubert	30nbIhzxOVIrKo12	2	3527	12	
+Frazier, DeVante	2FfxJLKTnnk1zCUD	4	35072	119	<--- Hourly rate < 2 HRP/hr
+Basile, Mike	0VeZZD26dOsSbQVG	0	0	0
