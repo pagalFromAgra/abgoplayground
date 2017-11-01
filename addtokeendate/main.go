@@ -15,22 +15,21 @@ const (
 func main() {
 
 	csvdata := flag.String("csv", "", "a string")
+
+	outdata := flag.String("out", "", "a string")
+
 	flag.Parse()
 
-	this1, _ := time.Parse(TIME_FORMAT, "2017-08-24T07:50:01.000Z")
-	that1, _ := time.Parse(TIME_FORMAT, "2017-09-12T18:35:19.000Z")
-	tdiff1 := that1.Unix() - this1.Unix() // for 34d3n426LdxamFFN
-
-	this2, _ := time.Parse(TIME_FORMAT, "2017-08-23T09:00:01.000Z")
-	that2, _ := time.Parse(TIME_FORMAT, "2017-09-12T15:58:58.000Z")
-	tdiff2 := that2.Unix() - this2.Unix() // for pZV9PXGOmuEU0sqr
+	this, _ := time.Parse(TIME_FORMAT, "2017-10-12T00:00:00.000Z")
+	that, _ := time.Parse(TIME_FORMAT, "2017-09-28T00:00:00.000Z")
+	tdiff := that.Unix() - this.Unix()
 
 	f, _ := os.Open(*csvdata)
 
 	r := csv.NewReader(bufio.NewReader(f))
 	result, _ := r.ReadAll()
 
-	fout, _ := os.Create("/Users/adityabansal/kineticdevs/go/src/github.com/wearkinetic/myplayground/addtokeendate/testout.csv")
+	fout, _ := os.Create(*outdata)
 	writer := csv.NewWriter(fout)
 	defer writer.Flush()
 
@@ -41,11 +40,8 @@ func main() {
 		tend, _ := time.Parse(TIME_FORMAT, row[7])
 		tstart, _ := time.Parse(TIME_FORMAT, row[10])
 
-		if row[5] == "34d3n426LdxamFFN" {
-			td = tdiff1
-		} else {
-			td = tdiff2
-		}
+		td = tdiff
+
 		row[0] = time.Unix(tkeentimestamp.Unix()+td, 0).UTC().Format(TIME_FORMAT)
 		row[7] = time.Unix(tend.Unix()+td, 0).UTC().Format(TIME_FORMAT)
 		row[10] = time.Unix(tstart.Unix()+td, 0).UTC().Format(TIME_FORMAT)
